@@ -1,0 +1,3 @@
+/Users/carlosbeiramar/CLionProjects/teste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/carlosbeiramar/CLionProjects/teste/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/carlosbeiramar/CLionProjects/teste/cmake-build-debug/CMakeFiles/teste.dir
