@@ -1,0 +1,113 @@
+Código:v6
+{
+	Marca: Rolls Royce
+	Modelo: Ghost
+	Ano: 2020
+	Velocidade média: 110.3
+	Preço: 10.0
+	Classificação: 10.0
+	Quilómetros: 7.0
+	Taxa de luxo: 1.15
+}
+
+Código:v7
+{
+	Marca: Audi
+	Modelo: A3
+	Ano: 2005
+	Velocidade média: 78.6
+	Preço: 7.0
+	Classificação: 7.0
+	Quilómetros: 20.0
+	Não está em promoção.
+}
+
+Código:v8
+{
+	Marca: Nissan
+	Modelo: GTR
+	Ano: 2008
+	Velocidade média: 77.2
+	Preço: 8.0
+	Classificação: 8.0
+	Quilómetros: 43.0
+	Não está em promoção.
+}
+
+Código:v9
+{
+	Marca: McLaren
+	Modelo: P1
+	Ano: 2020
+	Velocidade média: 121.2
+	Preço: 9.0
+	Classificação: 9.0
+	Quilómetros: 10.0
+	Não está em promoção.
+}
+
+Código:v10
+{
+	Marca: Tesla
+	Modelo: CyberTruck
+	Ano: 2021
+	Velocidade média: 103.2
+	Preço: 9.0
+	Classificação: 9.0
+	Quilómetros: 40.0
+	Capacidade:10.0}
+
+Código:v1
+{
+	Marca: Audi
+	Modelo: A3
+	Ano: 2010
+	Velocidade média: 80.0
+	Preço: 7.0
+	Classificação: 7.0
+	Quilómetros: 20.0
+
+Código:v2
+{
+	Marca: BMW
+	Modelo: Class C
+	Ano: 2007
+	Velocidade média: 95.3
+	Preço: 8.0
+	Classificação: 8.0
+	Quilómetros: 10.0
+
+Código:v3
+{
+	Marca: Porshe
+	Modelo: Panamera
+	Ano: 2009
+	Velocidade média: 80.0
+	Preço: 8.0
+	Classificação: 8.0
+	Quilómetros: 3.0
+
+Código:v4
+{
+	Marca: Mercedes
+	Modelo: MG
+	Ano: 2005
+	Velocidade média: 70.0
+	Preço: 7.0
+	Classificação: 7.0
+	Quilómetros: 12.0
+	Taxa de luxo: 1.06
+}
+
+Código:v5
+{
+	Marca: Ferrari
+	Modelo: 1.18
+	Ano: 2011
+	Velocidade média: 100.4
+	Preço: 9.0
+	Classificação: 9.0
+	Quilómetros: 0.0
+	Taxa de luxo: 1.2
+}
+
