@@ -1,0 +1,3 @@
+/Users/carlosbeiramar/Desktop/LCC/terceiro_ano/CG/pyramid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/carlosbeiramar/Desktop/LCC/terceiro_ano/CG/pyramid/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/carlosbeiramar/Desktop/LCC/terceiro_ano/CG/pyramid/cmake-build-debug/CMakeFiles/class2.dir
